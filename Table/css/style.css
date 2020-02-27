@@ -1,0 +1,39 @@
+/*
+Table
+http://www.bholait.com
+*/
+
+/*-----------------------------------------------------------------------------------*/
+							/*	Design By Md Mizanur Rahaman Santo */							
+/*-----------------------------------------------------------------------------------*/
+
+/*Code Start*/
+*{
+	
+}
+
+
+.content{
+	width: 900px;
+	height: auto;
+	background: white;
+	margin: 0px auto;
+	margin-top: 40px;
+	box-shadow: 0px 0px 8px 4px #eee1e1;
+}
+
+.content tr{
+	height: 50px;
+}
+
+.content td{
+	width: 150px;
+}
+
+.content tr:first-child{
+	background: #b1ccff;
+}
+
+.content tr:nth-child(2n){
+	background: #beccc6;
+}
